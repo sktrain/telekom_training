@@ -11,5 +11,6 @@ Materialien zum Training:
 - Muster_Mitarbeiter_v10_neu.zip ---- Muster für Aufgaben Mitarbeiterverwaltung (Punkt 8 - 9)
 - Java8_Aufgaben.zip ----   Aufgaben speziell zu Lambdas und Streams
 - uml-2-Notationsuebersicht-oose.de.pdf ----  Übersicht UMl-Diagramme
+- AusstehendeThemen.pdf ---- Ausstehende Themen ab Tag 3
 
 
