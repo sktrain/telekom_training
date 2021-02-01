@@ -1,6 +1,6 @@
 # telekom_training
 
-Materialien zum Training:
+Materialien zum Training - Block 3:
 - Java-Aufbau.pdf ----     Folien
 - SE_Samples.zip ----   Beispiele zu diversen Aspekten der Java SE
 - MitarbeiterVerwaltung.zip ----  Muster zur Mitarbeiterverwaltung alt
@@ -12,5 +12,9 @@ Materialien zum Training:
 - Java8_Aufgaben.zip ----   Aufgaben speziell zu Lambdas und Streams
 - uml-2-Notationsuebersicht-oose.de.pdf ----  Übersicht UMl-Diagramme
 - AusstehendeThemen.pdf ---- Ausstehende Themen ab Tag 3
+
+Materialien zum Training - Block 4:
+- Java-Aufbau.pdf ----     Folien
+- SE_Samples.zip ----   Beispiele zu diversen Aspekten der Java SE
 
 
