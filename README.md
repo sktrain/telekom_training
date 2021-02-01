@@ -14,7 +14,10 @@ Materialien zum Training - Block 3:
 - AusstehendeThemen.pdf ---- Ausstehende Themen ab Tag 3
 
 Materialien zum Training - Block 4:
-- Java-Aufbau.pdf ----     Folien
-- SE_Samples.zip ----   Beispiele zu diversen Aspekten der Java SE
-
+- Sample_BookService_Basis.zip ----   Aufgabe Refactoring + Junit
+- Sample_BookService_JunitTest.zip ---- Lösung mit Junit, ohne Refactoring
+- Samples_Cleancode.zip ----  Erste Aufgaben/Beispiele zum Refactoring
+- Samples_Cleancode_Solutions.zip  ---- Lösungen zu den Refactoring-Aufgaben
+- Unterlagen_Block4.zip ---- Skript/Folien
+- Java-Design-Patterns.pdf ----  Einführung Design Patterns
 
