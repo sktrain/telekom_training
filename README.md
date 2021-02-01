@@ -20,4 +20,5 @@ Materialien zum Training - Block 4:
 - Samples_Cleancode_Solutions.zip  ---- Lösungen zu den Refactoring-Aufgaben
 - Unterlagen_Block4.zip ---- Skript/Folien
 - Java-Design-Patterns.pdf ----  Einführung Design Patterns
+- JUnit-Tutorial.pdf ---- Einführung JUnit
 
