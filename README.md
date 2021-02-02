@@ -16,6 +16,7 @@ Materialien zum Training - Block 3:
 Materialien zum Training - Block 4:
 - Sample_BookService_Basis.zip ----   Aufgabe Refactoring + Junit
 - Sample_BookService_JunitTest.zip ---- Lösung mit Junit, ohne Refactoring
+- Sample_BookService_RefactoredTests.zip ---- Lösung mit Junit + Refactoring
 - Samples_Cleancode.zip ----  Erste Aufgaben/Beispiele zum Refactoring
 - Samples_Cleancode_Solutions.zip  ---- Lösungen zu den Refactoring-Aufgaben
 - Unterlagen_Block4.zip ---- Skript/Folien
