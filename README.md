@@ -23,3 +23,9 @@ Materialien zum Training - Block 4:
 - Java-Design-Patterns.pdf ----  Einführung Design Patterns
 - JUnit-Tutorial.pdf ---- Einführung JUnit
 
+Block 4: Tag 3
+- Sample_BookService_Basis_Refactored.zip ---- Lösung mit Refactoring ohne JUnit
+- Sample_BookService_Basis_RefactoredMockito.zip ---- Lösung mit Refactoring + JUnit + Mockito
+
+
+
